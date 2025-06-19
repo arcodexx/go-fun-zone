@@ -1,0 +1,1 @@
+This is a Sample File for Word Frequency Counter. Therefore repeating the words for Word Frequency Counter to give result by counting the words from this sample file we have created
